@@ -1,0 +1,30 @@
+NEW CLIENT INTAKE FORM
+
+Date Submitted: April 2, 2026
+
+--- Contact Information ---
+Full Name: Dana Whitfield
+Company: Whitfield & Co. Realty
+Email: dana.whitfield@example.com
+Phone: (503) 555-0148
+Preferred Contact Method: Email
+
+--- Service Request ---
+Service Requested: Lease document review and renewal recommendation
+Property Address: 2210 Birch Hollow Drive, Lake Oswego, OR 97034
+Current Lease Expiration: August 31, 2026
+Urgency Level: Medium (response within 5 business days)
+
+--- Additional Details ---
+Notes: Tenant has requested an early renewal discussion. Client wants a summary of current
+lease terms, market rate comparison for the area, and recommended renewal terms before
+responding to the tenant. Client is also open to a short-term extension if renegotiation
+takes longer than expected.
+
+Referral Source: Existing client referral (Margaret Chen)
+Budget Range: $400 - $800 for this engagement
+Preferred Start Date: April 8, 2026
+
+--- Internal Use Only ---
+Assigned Rep: (pending assignment)
+Priority Flag: Standard

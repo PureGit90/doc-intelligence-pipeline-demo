@@ -1,0 +1,40 @@
+SERVICES AGREEMENT (EXCERPT)
+
+This Services Agreement ("Agreement") is entered into as of March 1, 2026 ("Effective Date"),
+by and between:
+
+Northbridge Consulting Group, Inc., a Delaware corporation with its principal place of
+business at 88 Liberty Street, New York, NY 10006 ("Provider"),
+
+and
+
+Cascade Retail Holdings, LLC, an Oregon limited liability company with its principal place of
+business at 4100 SW Macadam Ave, Portland, OR 97239 ("Client").
+
+1. TERM
+This Agreement shall commence on the Effective Date and continue for an initial term of
+twelve (12) months, expiring on February 28, 2027, unless earlier terminated as provided herein.
+The Agreement shall automatically renew for successive 12-month terms unless either party
+provides written notice of non-renewal at least sixty (60) days prior to the end of the
+then-current term.
+
+2. SERVICES AND OBLIGATIONS
+Provider shall deliver quarterly operational audits, a monthly performance dashboard, and
+on-call advisory support not to exceed 10 hours per month. Client shall provide timely access
+to relevant financial records, designate a single point of contact, and remit payment within
+fifteen (15) days of invoice receipt.
+
+3. COMPENSATION
+Client shall pay Provider a fixed monthly retainer of $7,500, invoiced on the first business
+day of each month. Any work exceeding the included advisory hours shall be billed at $225/hour.
+
+4. TERMINATION
+Either party may terminate this Agreement for material breach upon thirty (30) days written
+notice if the breach remains uncured. Client may terminate for convenience upon ninety (90)
+days written notice.
+
+5. CONFIDENTIALITY
+Both parties agree to maintain the confidentiality of proprietary information disclosed during
+the term of this Agreement and for a period of three (3) years following termination.
+
+[Remainder of agreement omitted]

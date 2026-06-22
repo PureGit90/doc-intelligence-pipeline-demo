@@ -1,0 +1,27 @@
+INVOICE
+
+Vendor: Acme Industrial Supply Co.
+123 Commerce Way, Suite 400
+Columbus, OH 43215
+
+Invoice #: INV-20458
+Invoice Date: May 14, 2026
+Due Date: June 13, 2026
+Terms: Net 30
+
+Bill To:
+Hartwell Manufacturing LLC
+Attn: Accounts Payable
+
+Line Items:
+1. Industrial bearing assembly (Model HB-220) - Qty 12 - Unit Price $84.50 - Total $1,014.00
+2. Hex bolt set, stainless steel (Box of 500) - Qty 6 - Unit Price $39.20 - Total $235.20
+3. Replacement gasket kit (Model GK-90) - Qty 4 - Unit Price $62.75 - Total $251.00
+4. Freight and handling - Qty 1 - Unit Price $145.00 - Total $145.00
+
+Subtotal: $1,645.20
+Sales Tax (7.25%): $119.28
+Total Amount Due: $1,764.48
+
+Payment Instructions: Remit via ACH to account on file or mail check to address above.
+Questions: billing@acmeindustrial.example.com
